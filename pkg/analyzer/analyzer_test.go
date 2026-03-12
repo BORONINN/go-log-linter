@@ -3,7 +3,7 @@ package analyzer_test
 import (
 	"testing"
 
-	"customLinterSelectel/pkg/analyzer"
+	"github.com/BORONINN/go-log-linter/pkg/analyzer"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

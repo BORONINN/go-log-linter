@@ -1,0 +1,50 @@
+## Полученный результат
+
+- `main.go:23:12: log message should start with a lowercase letter`
+- `main.go:24:13: log message should start with a lowercase letter`
+- `main.go:25:12: log message should start with a lowercase letter`
+- `main.go:26:13: log message should start with a lowercase letter`
+- `main.go:30:17: log message should start with a lowercase letter`
+- `main.go:31:18: log message should start with a lowercase letter`
+- `main.go:32:17: log message should start with a lowercase letter`
+- `main.go:33:18: log message should start with a lowercase letter`
+- `main.go:34:17: log message should start with a lowercase letter`
+- `main.go:35:18: log message should start with a lowercase letter`
+- `main.go:57:12: log message should be in English, found non-Latin character 'з'`
+- `main.go:58:13: log message should be in English, found non-Latin character 'о'`
+- `main.go:59:12: log message should be in English, found non-Latin character '服'`
+- `main.go:60:12: log message should be in English, found non-Latin character 'サ'`
+- `main.go:62:17: log message should be in English, found non-Latin character 'з'`
+- `main.go:63:17: log message should be in English, found non-Latin character 'о'`
+- `main.go:80:12: log message should not contain special character '!'`
+- `main.go:81:13: log message should not contain special character '!'`
+- `main.go:82:12: log message should not contain "..."`
+- `main.go:83:12: log message should not contain emoji '🚀'`
+- `main.go:84:13: log message should not contain emoji '🔥'`
+- `main.go:86:17: log message should not contain special character '!'`
+- `main.go:87:17: log message should not contain "..."`
+- `main.go:88:17: log message should not contain special character '!'`
+- `main.go:113:12: log message may contain sensitive data (keyword "password")`
+- `main.go:114:12: log message may contain sensitive data (keyword "api_key")`
+- `main.go:115:13: log message may contain sensitive data (keyword "token")`
+- `main.go:116:13: log message may contain sensitive data (keyword "secret")`
+- `main.go:119:12: log message may contain sensitive data (keyword "password")`
+- `main.go:120:12: log message may contain sensitive data (keyword "api_key")`
+- `main.go:121:13: log message may contain sensitive data (keyword "token")`
+- `main.go:125:17: log message may contain sensitive data (keyword "password")`
+- `main.go:126:17: log message may contain sensitive data (keyword "token")`
+- `main.go:127:17: log message may contain sensitive data (keyword "api_key")`
+- `main.go:144:12: log message should start with a lowercase letter`
+- `main.go:144:12: log message should not contain special character '!'`
+- `main.go:174:15: log message should start with a lowercase letter`
+- `main.go:175:14: log message should start with a lowercase letter`
+- `main.go:176:15: log message should start with a lowercase letter`
+- `main.go:177:15: log message should start with a lowercase letter`
+- `main.go:178:15: log message should start with a lowercase letter`
+- `main.go:179:16: log message should start with a lowercase letter`
+- `main.go:181:15: log message should start with a lowercase letter`
+- `main.go:182:14: log message should start with a lowercase letter`
+- `main.go:183:15: log message should start with a lowercase letter`
+- `main.go:184:15: log message should start with a lowercase letter`
+
+**Всего ошибок:** 48
